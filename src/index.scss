@@ -24,12 +24,12 @@ a {
 }
 
 a:hover {
-  color: #5000ca;
+  color: #708238;
   transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
 }
 
 p, a, h1, h2, h3, h4, h5, label, button {
-  color: white;
+  color: #ffffff;
   font-family: "Lato", sans-serif;
 }
 
@@ -104,7 +104,7 @@ p, a, h1, h2, h3, h4, h5, label, button {
   }
 
   a:hover {
-    color: #5000ca;
+    color: #708238;
     transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
   }
 
@@ -134,7 +134,7 @@ p, a, h1, h2, h3, h4, h5, label, button {
   }
 
   .vertical-timeline--two-columns .vertical-timeline-element-content .vertical-timeline-element-date {
-    color: gray;
+    color: #808080;
   }
 
   .vertical-timeline-element-content-arrow {

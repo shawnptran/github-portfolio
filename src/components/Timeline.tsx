@@ -17,7 +17,7 @@ function Timeline() {
             contentStyle={{ background: 'white', color: 'rgb(39, 40, 34)' }}
             contentArrowStyle={{ borderRight: '7px solid  white' }}
             date="2024 - present"
-            iconStyle={{ background: '#a47551', color: 'rgb(39, 40, 34)' }}
+            iconStyle={{ background: '#708238', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Continuous Improvement Engineer</h3>
@@ -29,7 +29,7 @@ function Timeline() {
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2023 - 2023"
-            iconStyle={{ background: '#a47551', color: 'rgb(39, 40, 34)' }}
+            iconStyle={{ background: '#708238', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Continuous Improvement Engineering Intern</h3>
@@ -41,7 +41,7 @@ function Timeline() {
           <VerticalTimelineElement
             className="vertical-timeline-element--work"
             date="2022 - 2022"
-            iconStyle={{ background: '#a47551', color: 'rgb(39, 40, 34)' }}
+            iconStyle={{ background: '#708238', color: 'rgb(39, 40, 34)' }}
             icon={<FontAwesomeIcon icon={faBriefcase} />}
           >
             <h3 className="vertical-timeline-element-title">Hardware and Process Engineering Intern</h3>
